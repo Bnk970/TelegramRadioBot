@@ -1,0 +1,15 @@
+{
+    "bot_token": "token",
+    "stations": {
+        "kol_hai": "http://media.93fm.co.il/live",
+        "103fm": "http://103fm.live.streamgates.net/103fm_live/multix/icecast.audio",
+        "100fm": "http://100fm.streamgates.net/Radios100Fm"
+    },
+    "station_names": {
+        "kol_hai": "\u05e7\u05d5\u05dc \u05d7\u05d9",
+        "103fm": "103fm",
+        "100fm": "\u05e8\u05d3\u05d9\u05d5\u05e1 100"
+    },
+    "users": {
+    }
+}
