@@ -5,6 +5,7 @@
 * A Telegram user on which you can run scripts like this. If you have a lot of users you'll get a lot of spam, so try to avoid doing this on your main account.
 * A bot token
 * A server to run the bot on
+* [MadelineProto's requirements](https://docs.madelineproto.xyz/docs/REQUIREMENTS.html)
 
 ### How to use (Linux)
 
